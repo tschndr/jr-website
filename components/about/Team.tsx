@@ -4,9 +4,9 @@ import image from '@/components/ui/assets/justin_portrait.webp'
 
 export default function Team() {
   return (
-    <section className="mb-11 bg-gray-50 dark:bg-gray-900/50">
+    <section className="mb-11 p-3 bg-gray-50 dark:bg-gray-900/50">
       <div className="container mx-auto px-4 md:px-6">
-          <h2 className="text-3xl md:text-4xl font-bold">Our Leadership</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mt-4">Our Leadership</h2>
           <p className="mt-4 mb-10 text-lg text-muted-foreground">
             Meet the team behind Jay Research's innovative clinical software solutions.
           </p>

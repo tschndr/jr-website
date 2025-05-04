@@ -8,7 +8,7 @@ export default function Mission() {
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight">
               Our Mission
             </h1>
-            <div className="mt-6 space-y-6 text-lg text-muted-foreground">
+            <div className="mt-1 space-y-6 text-lg text-muted-foreground">
               <p>
                 At Jay Research, we're dedicated to transforming clinical research through innovative software solutions. We believe that technology should enhance human capability, not replace it.
               </p>
